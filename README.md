@@ -1,2 +1,4 @@
 # CATS
-This is my DB Task, COVID19 Activities Tracking System（CATS）！ 
+
+#### 介绍
+这是我的第一个DB Task——新冠疫情背景下的流动人员跟踪管理系统，欢迎交流！	
